@@ -1,0 +1,6 @@
+{
+  "name": "Photo Vault",
+  "description": "Secure AES-256 encrypted photo vault with biometric unlock, PIN protection, and anti-leak screen security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
